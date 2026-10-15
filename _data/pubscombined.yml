@@ -1,6 +1,15 @@
 main:
 
   - type: essay
+    title: "Boosting Ethanol Production via Strategic CO Co-Feeding in CO2 Hydrogenation over Rh-Based Catalysts"
+    authors: "Pin-Hung Chung; Jinwon Oh; Roel S. Sánchez-Carrera; Carlos Lizandara-Pueyo; Yuejin Li; Matteo Cargnello *"
+    pub_abbr: "ACS Catal."
+    publication: "ACS Catal. (2026)"
+    date: 2026
+    published: "October 13, 2026"
+    doi: "https://doi.org/10.1021/acscatal.6c05001"
+
+  - type: essay
     title: "Formation of Strong Brønsted Acid Sites on Aluminosilicate Surfaces during Catalytic Cracking"
     authors: "Sawant, K.; Stockwell, D.; DeBellis, A.; Sánchez-Carrera, R.S.; Dorazio, L.; Sautet, P."
     pub_abbr: "ACS Catalysis"
@@ -65,7 +74,7 @@ main:
     
   - type: essay
     title: "Revealing the structure of a catalytic combustion active-site ensemble combining uniform nanocrystal catalysts and theory insights"
-    authors: "Yang, A.-C.; Choksi, T.; Streibel, V.; Aljama, H.; Wrasman, C.J.; Roling, L.T.; Goodman, E.D.; Thomas, D.; Bare, S.R.; Sánchez-Carrera, R.S.; Schäfer, A.; Li, Y.; Abild-Pedersen, F.; Cargnello, M."
+    authors: "Yang, A.-C.; Choksi, T.; Streibel, V.; Aljama, H.; Wrasman, C.J.; Roling, L.T.; Goodman, E.D.; Thomas, D.; Bare, S.R.; Sánchez-Carrera, R.S.; Schäfer, A.; Li, Y.; Abild-Pedersen, F.; C[...)]"
     pub_abbr: "Proceedings of the National Academy of Sciences"
     publication: "Proceedings of the National Academy of Sciences 2020, 117 (26), 14721-14729"
     date: 2020
@@ -79,7 +88,7 @@ main:
     
   - type: essay
     title: "A novel class of halogen-free, super-conductive lithium argyrodites: Synthesis and characterization"
-    authors: "Schneider, H.; Du, H.; Kelley, T.; Leitner, K.; Maat, J.T.; Scordilis-Kelley, C.; Sanchez-Carrera, R.; Kovalev, I.; Mudalige, A.; Kulisch, J.; Safont-Sempere, M.M.; Hartmann, P.; Weiβ, T.; Schneider, L.; Hinrichsen, B."
+    authors: "Schneider, H.; Du, H.; Kelley, T.; Leitner, K.; Maat, J.T.; Scordilis-Kelley, C.; Sanchez-Carrera, R.; Kovalev, I.; Mudalige, A.; Kulisch, J.; Safont-Sempere, M.M.; Hartmann, P.; Wei[...)]"
     pub_abbr: "Journal of Power Sources"
     publication: "Journal of Power Sources 2017, 366, 151-160"
     date: 2017
@@ -184,7 +193,7 @@ main:
     
   - type: essay
     title: "Impact of perfluorination on the charge-transport parameters of oligoacene crystals"
-    authors: "Delgado, M.C.R.; Pigg, K.R.; Filho, D.A.D.S.; Gruhn, N.E.; Sakamoto, Y.; Suzuki, T.; Osuna, R.M.; Casado, J.; Hernández, V.; Navarrete, J.T.L.; Martinelli, N.G.; Cornil, J.; Sánchez-Carrera, R.S.; Coropceanu, V.; Brédas, J.-L."
+    authors: "Delgado, M.C.R.; Pigg, K.R.; Filho, D.A.D.S.; Gruhn, N.E.; Sakamoto, Y.; Suzuki, T.; Osuna, R.M.; Casado, J.; Hernández, V.; Navarrete, J.T.L.; Martinelli, N.G.; Cornil, J.; Sánchez-Ca[...)]"
     pub_abbr: "Journal of the American Chemical Society"
     publication: "Journal of the American Chemical Society 2009, 131 (4), 1502-1512"
     date: 2009
@@ -363,7 +372,7 @@ main:
     
   - type: patent
     title: "Process for preparing metal and mixed metal oxide catalysts"
-    authors: "Enrique Iglesia; Mikalai ARTSIUSHEUSKI; Nicholas JAEGERS; Carlos Lizandara Pueyo; Roel Sigifredo SANCHEZ-CARRERA; Craig Jon CAIN-BORGMAN; Stephan A. Schunk; Sebastian Weber; Piyush Ingale; Noah SUBAT"
+    authors: "Enrique Iglesia; Mikalai ARTSIUSHEUSKI; Nicholas JAEGERS; Carlos Lizandara Pueyo; Roel Sigifredo SANCHEZ-CARRERA; Craig Jon CAIN-BORGMAN; Stephan A. Schunk; Sebastian Weber; Piyush Ingal[...)]"
     patent_number: "WO2025221999A1"
     publication: "WO2025221999A1 (2025). Published application"
     date: 2025
