@@ -1,64 +1,64 @@
 main:
 
   - type: education
-    degreepath: Master in Business Administration # for type.education.
+    degreepath: Visiting Scholar
+    institution: University of California at Berkeley
+    department: Chemistry
+    years: 2024 - Present
+
+  - type: education
+    degreepath: Master in Business Administration
     institution: New York University
     department: Business School
     years: 2019 - 2023
-    notes: Finished
 
   - type: education
     degreepath: Postdoctoral Researcher
     institution: Harvard University
     department: Chemistry
-    advisors: Prof. Alán Aspurú-Guzik
+    advisor: Prof. Alán Aspurú-Guzik
     years: 2008 - 2010
-    notes: Finished
 
   - type: education
-    degreepath: PhD in Chemistry
+    degreepath: PhD in Physical Chemistry
     institution: Georgia Institute of Technology
     department: Chemistry
-    advisors: Prof. Jean-Luc Brédas
+    advisor: Prof. Jean-Luc Brédas
     years: 2003 - 2008
-    notes: Finished
 
   - type: education
-    degreepath: MS in Chemistry # for type.education.
+    degreepath: MS in Chemistry
     institution: Georgia Institute of Technology
     department: Chemistry
     years: 2003 - 2005
-    notes: Finished
 
   - type: education
-    degreepath: BS in Chemistry (minor in Chemical Engineering)
+    degreepath: BS in Chemistry (Minor, Chem. Eng.)
     institution: Tecnológico de Monterrey
     department: Chemistry
-    advisors: Prof. Marcelo Videa
+    advisor: Prof. Marcelo Videa
     years: 1999 - 2002
-    notes: Finished
     
   - type: job
-    title: Innovation Manager # for type.employment.
+    title: Innovation Manager
     institution: BASF Corp
     department: Inorganic Materials and Synthesis
     years: 2024 - Present
 
-
   - type: job
-    title: Research Scientist # for type.employment.
+    title: Research Scientist
     institution: BASF Corp
     department: Scientific Modeling
     years: 2014 - 2023
 
   - type: job
-    title: Research Scientist # for type.employment.
+    title: Research Scientist
     institution: BASF SE
     department: Scientific Modeling
     years: 2013 - 2014
 
   - type: job
-    title: Research Scientist # for type.employment.
+    title: Research Scientist
     institution: Robert Bosch LLC
     department: Energy Group
     years: 2010 - 2012
@@ -78,7 +78,7 @@ main:
     title: A Third Role
     institution:
     years: 2023
-    
+
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions, and "service" for service positions.
 #    degreepath: # for type.education.
