@@ -1,42 +1,45 @@
 main:
 
   - type: education
-    degreepath: Visiting Scholar
+    degreepath: "<strong>Visiting Scholar</strong>"
     institution: University of California at Berkeley
     department: Chemistry
     years: 2024 - Present
 
   - type: education
-    degreepath: Master in Business Administration
+    degreepath: "<strong>Master in Business Administration</strong>"
     institution: New York University
     department: Business School
     years: 2019 - 2023
 
   - type: education
-    degreepath: Postdoctoral Researcher
+    degreepath: |-
+      <strong>Postdoctoral Researcher</strong>
+      Advisor: Prof. Alán Aspurú-Guzik
     institution: Harvard University
     department: Chemistry
-    advisor: Prof. Alán Aspurú-Guzik
     years: 2008 - 2010
 
   - type: education
-    degreepath: PhD in Physical Chemistry
+    degreepath: |-
+      <strong>PhD in Physical Chemistry</strong>
+      Advisor: Prof. Jean-Luc Brédas
     institution: Georgia Institute of Technology
     department: Chemistry
-    advisor: Prof. Jean-Luc Brédas
     years: 2003 - 2008
 
   - type: education
-    degreepath: MS in Chemistry
+    degreepath: "<strong>MS in Chemistry</strong>"
     institution: Georgia Institute of Technology
     department: Chemistry
     years: 2003 - 2005
 
   - type: education
-    degreepath: BS in Chemistry (Minor, Chem. Eng.)
+    degreepath: |-
+      <strong>BS in Chemistry (Minor, Chem. Eng.)</strong>
+      Advisor: Prof. Marcelo Videa
     institution: Tecnológico de Monterrey
     department: Chemistry
-    advisor: Prof. Marcelo Videa
     years: 1999 - 2002
     
   - type: job
