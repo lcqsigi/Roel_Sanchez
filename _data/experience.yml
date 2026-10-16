@@ -28,6 +28,7 @@ main:
 
   - type: education
     degreepath: "<strong>MS in Chemistry</strong>"
+    advisors: "Prof. Jean-Luc Brédas"
     institution: Georgia Institute of Technology
     department: Chemistry
     years: 2003 - 2005
