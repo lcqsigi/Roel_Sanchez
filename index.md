@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Roel Sanchez is a Research Scientist at BASF Corporation and a Visiting Scholar at the University of California, Berkeley. He specializes in translating R&D innovation into commercial technologies at the intersection of sustainable materials, industrial chemistry, and digital transformation. His work combines scientific modeling, process development, and strategic university–industry collaborations to generate measurable customer and commercial value.
+Roel Sanchez is a Senior Scientist at BASF Corporation and a Visiting Scholar at the University of California, Berkeley. He specializes in translating R&D innovation into commercial technologies at the intersection of sustainable materials, industrial chemistry, and digital transformation. His work combines scientific modeling, process development, and strategic university–industry collaborations to generate measurable customer and commercial value.
 
 Highlights:
 
