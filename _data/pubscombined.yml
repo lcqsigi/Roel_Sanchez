@@ -15,6 +15,7 @@ main:
     pub_abbr: "ACS Catalysis"
     publication: "ACS Catalysis, Accepted"
     date: 2026
+    doi: "https://doi.org/10.1021/acscatal.6c03544"
 
   - type: essay
     title: "Enhancing CO Oxidation Rate via Electronic Tuning of CO Binding on Bimetallic Nanoparticle Catalysts"
@@ -22,6 +23,7 @@ main:
     pub_abbr: "JACS"
     publication: "Journal of the American Chemical Society 2026"
     date: 2026
+    doi: "https://doi.org/10.1021/jacs.6c10886"
 
   - type: essay
     title: "Synthesizing Colloidal Bimetallic Nanoparticles in Water Using a Dual-Ligand Strategy"
@@ -29,6 +31,7 @@ main:
     pub_abbr: "Angew. Chem. Int. Ed."
     publication: "Angewandte Chemie International Edition 2026, e5050054"
     date: 2026
+    doi: "https://doi.org/10.1002/anie.5050054"
     
   - type: essay
     title: "Competitive reactivity drives size-and composition-focusing in multimetallic nanocrystals"
@@ -36,6 +39,7 @@ main:
     pub_abbr: "Science"
     publication: "Science 2026, 392 (6798), eaea8044"
     date: 2026
+    doi: "https://doi.org/10.1126/science.aea8044"
     
   - type: essay
     title: "Activity and Kinetics of Ethanol-to-Acetone Conversion via Magnetic Induction Heating"
@@ -43,6 +47,7 @@ main:
     pub_abbr: "ACS Sustainable Chemistry & Engineering"
     publication: "ACS Sustainable Chemistry & Engineering 2026"
     date: 2026
+    doi: "https://doi.org/10.1021/acssuschemeng.6c00199"
     
   - type: essay
     title: "The role of induction heating in catalytic propane dehydrogenation"
@@ -50,6 +55,7 @@ main:
     pub_abbr: "Chemical Engineering Journal"
     publication: "Chemical Engineering Journal 2025, 524, 168972"
     date: 2025
+    doi: "https://doi.org/10.1016/j.cej.2025.168972"
     
   - type: essay
     title: "Tuning 1, 3-Butadiene selectivity from ethanol in a tandem reaction with induction heating"
@@ -57,6 +63,7 @@ main:
     pub_abbr: "Chemical Engineering Journal"
     publication: "Chemical Engineering Journal 2025, 503, 158302"
     date: 2025
+    doi: "https://doi.org/10.1016/j.cej.2024.158302"
     
   - type: essay
     title: "Microkinetic modeling of propene combustion on a stepped, metallic palladium surface and the importance of oxygen coverage"
@@ -64,6 +71,7 @@ main:
     pub_abbr: "ACS Catalysis"
     publication: "ACS Catalysis 2022, 12 (3), 1742-1757"
     date: 2022
+    doi: "https://doi.org/10.1021/acscatal.1c03699"
     
   - type: essay
     title: "Insights and comparison of structure–property relationships in propane and propene catalytic combustion on Pd-and Pt-based catalysts"
@@ -71,6 +79,7 @@ main:
     pub_abbr: "Journal of Catalysis"
     publication: "Journal of Catalysis 2021, 401, 89-101"
     date: 2021
+    doi: "https://doi.org/10.1016/j.jcat.2021.06.018"
     
   - type: essay
     title: "Revealing the structure of a catalytic combustion active-site ensemble combining uniform nanocrystal catalysts and theory insights"
@@ -78,6 +87,7 @@ main:
     pub_abbr: "Proceedings of the National Academy of Sciences"
     publication: "Proceedings of the National Academy of Sciences 2020, 117 (26), 14721-14729"
     date: 2020
+    doi: "https://doi.org/10.1073/pnas.2002342117"
     
   - type: essay
     title: "Modeling the migration of platinum nanoparticles on surfaces using a kinetic Monte Carlo approach"
@@ -85,6 +95,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry C"
     publication: "The Journal of Physical Chemistry C 2017, 121 (8), 4261-4269"
     date: 2017
+    doi: "https://doi.org/10.1021/acs.jpcc.6b11549"
     
   - type: essay
     title: "A novel class of halogen-free, super-conductive lithium argyrodites: Synthesis and characterization"
@@ -92,6 +103,7 @@ main:
     pub_abbr: "Journal of Power Sources"
     publication: "Journal of Power Sources 2017, 366, 151-160"
     date: 2017
+    doi: "https://doi.org/10.1016/j.jpowsour.2017.09.012"
     
   - type: essay
     title: "Modeling the interface of platinum and α-quartz (001): Implications for sintering"
@@ -99,6 +111,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry C"
     publication: "The Journal of Physical Chemistry C 2016, 120 (19), 10340-10350"
     date: 2016
+    doi: "https://doi.org/10.1021/acs.jpcc.6b01403"
     
   - type: essay
     title: "Anisotropic electron mobility studies on Cl2-NDI single crystals and the role of static and dynamic lattice deformations upon temperature variation"
@@ -106,6 +119,7 @@ main:
     pub_abbr: "arXiv"
     publication: "arXiv preprint arXiv:1501.01856 2015"
     date: 2015
+    doi: "https://arxiv.org/abs/1501.01856"
     
   - type: essay
     title: "Computational Raman spectroscopy of organometallic reaction products in lithium and sodium-based battery systems"
@@ -113,6 +127,7 @@ main:
     pub_abbr: "Physical Chemistry Chemical Physics"
     publication: "Physical Chemistry Chemical Physics 2014, 16 (44), 24549-24558"
     date: 2014
+    doi: "https://doi.org/10.1039/c4cp03998j"
     
   - type: essay
     title: "A critical review of Li/air batteries"
@@ -120,6 +135,7 @@ main:
     pub_abbr: "Journal"
     publication: "2011, 159 (2), R1-R30"
     date: 2011
+    doi: "https://doi.org/10.1149/2.086202jes"
     
   - type: essay
     title: "The Harvard clean energy project: large-scale computational screening and design of organic photovoltaics on the world community grid"
@@ -127,6 +143,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry Letters"
     publication: "The Journal of Physical Chemistry Letters 2011, 2 (17), 2241-2251"
     date: 2011
+    doi: "https://doi.org/10.1021/jz200866s"
     
   - type: essay
     title: "From computational discovery to experimental characterization of a high hole mobility organic crystal"
@@ -134,6 +151,7 @@ main:
     pub_abbr: "Nature communications"
     publication: "Nature communications 2011, 2 (1), 437"
     date: 2011
+    doi: "https://doi.org/10.1038/ncomms1451"
     
   - type: essay
     title: "Identifying capacity limitations in the Li/oxygen battery using experiments and modeling"
@@ -141,6 +159,7 @@ main:
     pub_abbr: "Journal of The Electrochemical Society"
     publication: "Journal of The Electrochemical Society 2011, 158 (3), A343-A351"
     date: 2011
+    doi: "https://doi.org/10.1149/1.3527055"
     
   - type: essay
     title: "Accelerated computational discovery of high-performance materials for organic photovoltaics by means of cheminformatics"
@@ -148,6 +167,7 @@ main:
     pub_abbr: "Energy & Environmental Science"
     publication: "Energy & Environmental Science 2011, 4 (12), 4849-4861"
     date: 2011
+    doi: "https://doi.org/10.1039/c1ee02056k"
     
   - type: essay
     title: "Interaction of charge carriers with lattice vibrations in oligoacene crystals from naphthalene to pentacene"
@@ -155,6 +175,7 @@ main:
     pub_abbr: "Journal of the American Chemical Society"
     publication: "Journal of the American Chemical Society 2010, 132 (41), 14437-14446"
     date: 2010
+    doi: "https://doi.org/10.1021/ja1040732"
     
   - type: essay
     title: "Influence of structural dynamics on polarization energies in anthracene single crystals"
@@ -162,6 +183,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry C"
     publication: "The Journal of Physical Chemistry C 2010, 114 (48), 20678-20685"
     date: 2010
+    doi: "https://doi.org/10.1021/jp105843t"
     
   - type: essay
     title: "Theoretical Characterization of the Air-Stable, High-Mobility Dinaphtho[2,3-b:2′3′-f]thieno[3,2-b]-thiophene Organic Semiconductor"
@@ -169,6 +191,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry C"
     publication: "The Journal of Physical Chemistry C 2010, 114 (5), 2334-2340"
     date: 2010
+    doi: "https://doi.org/10.1021/jp910102f"
     
   - type: essay
     title: "Failure of conventional density functionals for the prediction of molecular crystal polymorphism: a quantum Monte Carlo study"
@@ -176,6 +199,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry Letters"
     publication: "The Journal of Physical Chemistry Letters 2010, 1 (12), 1789-1794"
     date: 2010
+    doi: "https://doi.org/10.1021/jz100418p"
     
   - type: essay
     title: "Optical absorption and emission properties of end-capped oligothienoacenes: A joint theoretical and experimental study"
@@ -183,6 +207,7 @@ main:
     pub_abbr: "Organic Electronics"
     publication: "Organic Electronics 2010, 11 (10), 1701-1712"
     date: 2010
+    doi: "https://doi.org/10.1016/j.orgel.2010.07.001"
     
   - type: essay
     title: "Electronic Properties of the 2,6-Diiododithieno[3,2-b:2′,3′-d]thiophene Molecule and Crystal: A Joint Experimental and Theoretical Study"
@@ -190,6 +215,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry B"
     publication: "The Journal of Physical Chemistry B 2010, 114 (2), 749-755"
     date: 2010
+    doi: "https://doi.org/10.1021/jp909164w"
     
   - type: essay
     title: "Impact of perfluorination on the charge-transport parameters of oligoacene crystals"
@@ -197,6 +223,7 @@ main:
     pub_abbr: "Journal of the American Chemical Society"
     publication: "Journal of the American Chemical Society 2009, 131 (4), 1502-1512"
     date: 2009
+    doi: "https://doi.org/10.1021/ja807528w"
     
   - type: essay
     title: "Interaction of charge carriers with lattice vibrations in organic molecular semiconductors: naphthalene as a case study"
@@ -204,6 +231,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry C"
     publication: "The Journal of Physical Chemistry C 2009, 113 (11), 4679-4686"
     date: 2009
+    doi: "https://doi.org/10.1021/jp900157p"
     
   - type: essay
     title: "Influence of intermolecular vibrations on the electronic coupling in organic semiconductors: the case of anthracene and perfluoropentacene"
@@ -211,6 +239,7 @@ main:
     pub_abbr: "ChemPhysChem"
     publication: "ChemPhysChem 2009, 10 (13), 2265-2273"
     date: 2009
+    doi: "https://doi.org/10.1002/cphc.200900298"
     
   - type: essay
     title: "Charge-transport properties of the 1, 4-diiodobenzene crystal: A quantum-mechanical study"
@@ -218,6 +247,7 @@ main:
     pub_abbr: "Chemistry of Materials"
     publication: "Chemistry of Materials 2008, 20 (18), 5832-5838"
     date: 2008
+    doi: "https://doi.org/10.1021/cm801108c"
     
   - type: essay
     title: "Theoretical Characterization of Charge Transport in Organic Molecular Crystals"
@@ -233,6 +263,7 @@ main:
     pub_abbr: "Journal of the American Chemical Society"
     publication: "Journal of the American Chemical Society 2007, 129 (43), 13072-13081"
     date: 2007
+    doi: "https://doi.org/10.1021/ja073587r"
     
   - type: essay
     title: "Vibronic coupling in the ground and excited states of oligoacene cations"
@@ -240,6 +271,7 @@ main:
     pub_abbr: "The Journal of Physical Chemistry B"
     publication: "The Journal of Physical Chemistry B 2006, 110 (38), 18904-18911"
     date: 2006
+    doi: "https://doi.org/10.1021/jp057462p"
     
   - type: essay
     title: "Inner‐Phase Reaction Dynamics: The Influence of Hemicarcerand Polarizability and Shape on the Potential Energy Surface of an Inner‐Phase Reaction"
@@ -247,6 +279,7 @@ main:
     pub_abbr: "Journal"
     publication: "2005, 2005 (11), 2239-2249"
     date: 2005
+    doi: "https://www.researchwithrutgers.org/en/publications/inner-phase-reaction-dynamics-the-influence-of-hemicarcerand-pola/"
     
   - type: essay
     title: "Rate acceleration through dispersion interactions: Effect of a hemicarcerand on the transition state of inner phase decompositions of diazirines"
@@ -254,6 +287,7 @@ main:
     pub_abbr: "Angewandte Chemie-International Edition"
     publication: "Angewandte Chemie-International Edition 2002, 41 (1), 96-99"
     date: 2002
+    doi: "https://doi.org/10.1002/1521-3773(20020104)41:1<96::AID-ANIE96>3.0.CO;2-W"
     
   # -------------------------
   # PATENTS (same structure!)
